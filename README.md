@@ -27,7 +27,7 @@
   <p>  - Huamán Cataño, Miguel Ángel (u202120615) </p>
   <p>  - Landeo Simeón, Favio Sebastián (u202119588) </p>
   <p>  - Orrego Noriega, Jorge David (u201921734) </p>
-  <p>&nbsp;</p>
+  <br>
   <p> Mes y Año: Agosto del 2024 </p>
 </div>
 
