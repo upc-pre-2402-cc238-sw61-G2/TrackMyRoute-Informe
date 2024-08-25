@@ -216,7 +216,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
   <tr align="center">
     <td rowspan="3">
-      <img src="images/" alt="Jorge David Orrego Noriega" style="margin-bottom: 5px;" width="800"/> 
+      <img src="assets/" alt="Jorge David Orrego Noriega" style="margin-bottom: 5px;" width="800"/> 
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
@@ -235,7 +235,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
     <td align="left">
       <b>Acerca de:</b>
       <br>
-      INTRODUCCION JORGE DAVID
+      Estudio actualmente la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y la razón por la cual me encuentro estudiando esta carrera es porque siempre he tenido un interés particular por la tecnología, con un mayor énfasis en el software.
     </td>
   </tr>
 </table>
