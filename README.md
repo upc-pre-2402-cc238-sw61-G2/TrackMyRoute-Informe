@@ -127,7 +127,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
     <td align="left">
       <b>Acerca de:</b>
       <br>
-      INTRODUCCION LUIS ANGEL
+      Mi nombre es Angel Anampa y tengo 19 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Elegí dicha carrera porque soy una persona que le interesa mucho los temas que tienen que ver con tecnología , me gustan los videojuegos. Me considero una persona atenta, responsable , optimista que sabe solucionar los problemas. Como integrante del equipo me comprometo a apoyar al grupo en este trabajo.
     </td>
   </tr>
   
