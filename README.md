@@ -108,7 +108,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 <table align="center"  border="1" width="70%" style="text-align:center;">
   <tr align="center">
     <td rowspan="3">
-      <img src="images/" alt="Luis Angel Anampa Lavado" style="margin-bottom: 5px;" width="800"/> 
+      <img src="assets/Anampa_Angel.jpg" alt="Luis Angel Anampa Lavado" style="margin-bottom: 5px;" width="800"/> 
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
