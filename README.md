@@ -338,15 +338,15 @@ Implementaremos estos modelos y evaluaremos la generación de ingresos y la acep
 
 ## 1.3. Segmentos Objetivo
 
-Segmento objetivo 1: Pasajeros en busca de un autobús. (Pasajeros)
+Segmento objetivo 1: Pasajeros en busca de un autobús
 
-• Personas que viajan al trabajo o la escuela en transporte público.
-• Turistas que exploran Lima y prefieren utilizar el transporte público.
+• Personas que viajan al trabajo o la escuela en transporte público. <br>
+• Turistas que exploran Lima y prefieren utilizar el transporte público. <br>
 • Personas que no tienen acceso a un vehículo personal y dependen del transporte público para sus desplazamientos diarios.
 
 Segmento objetivo 2: Empresas de transporte que operan en Lima.
 
-• Los gerentes de operaciones y logística de estas empresas.
+• Los gerentes de operaciones y logística de estas empresas. <br>
 • Empresas formalizadas y con papeles en regla.
 
 
@@ -480,19 +480,26 @@ libremente. A continuación, se presentan algunos ejemplos de preguntas:
 
 **Entrevista 01**
 
-Entrevista #1:
+Nombre y apellidos: Fabio Horna
 
-<a href="https://ibb.co/HF7f6x9"><img src="https://i.ibb.co/M2nxrGJ/image.png" alt="image" border="0"></a>
+Edad: 24 años
 
-Nombre: Albre Cañamero, Jose
-**Enlace de entrevista:**
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214695_upc_edu_pe/EeS3yHZQ_xNArGNUtPUQuIQBAW61pI0n41otb6jIoq6hjQ?e=s4DVuo
+Ubicación: Lima
+
+Duración: 2:57
+
+Evidencia de la reunión:
+
+Inicio: 00:04
+
+Fin: 02:57
+
+**Enlace de entrevista:** --
+
 **Resumen de la entrevista:**
-El entrevistado, es un joven de 19 años que actualmente se encuentra estudiando la carrera de sociologia, el diaramente se moviliza por el transporte publico, debido a que le resulta mas económico movilizarse por ese medio. Nos comenta que la idea de nuestra le gusta mucho, porque el quisiera tener mas conocimiento sobre las mejores rutas que pueda tomar, quisiera que nosotros tengamos convenio con las empresas de los buses.
+--
 
 **Entrevista 02**
-
-Entrevistado 2:
 
 Nombre y apellidos: Fabio Horna
 
@@ -500,9 +507,13 @@ Edad: 24 años
 
 Ubicación: Lima
 
+Duración: 2:57
+
 Evidencia de la reunión:
 
-<img src="images/entrevista2.jpg" alt="Canvas" width="90%">
+<div align="center">
+  <img src="assets/Entrevista02.jpg">
+</div>
 
 Inicio: 00:04
 
@@ -515,21 +526,23 @@ Nuestro entrevistado fue Fabio Horna, un joven de 24 años que trabaja en una em
 
 **Entrevista 03**
 
-Nombre y apellidos: Alba Murillo
+Nombre y apellidos: --
 
-Edad: 24 años
+Edad: --
 
-Ubicación: Lima
+Ubicación: --
+
+Duración: --
 
 Evidencia de la reunión:
 
-<div align="center">
+--
 
-  <img src="images/entrevista_arian.png">
+**Enlace de entrevista:** --
 
-</div>
+**Resumen de la entrevista:**
 
-**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+--
 
 **Entrevista 04**
 
@@ -548,7 +561,6 @@ Evidencia de la reunión:
 </div>
 
 **Enlace de entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EXHEG_PwxKBMo-Saj7qtUhMBvdCQxVidwivN3u5SeOohaQ?e=hi2ysX 
-
 
 **Resumen de la entrevista:**
 
@@ -623,37 +635,33 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 **User Journey Mapping del segmento: Usuarios Diarios de Transporte Público en Lima**
 
 <div align="center">
-
-  <img src="https://i.imgur.com/beG78Qf.png">
-
+  <img src="assets/UserJourneyUsuario.png">
 </div>
 
 **User Journey Mapping del segmento: Empresas de transporte en Lima**
 
 <div align="center">
-
-  <img src="https://i.imgur.com/ZtwuyG4.png">
-
+  <img src="assets/UserJourneyEmpresa.png">
 </div>
 
 ### 2.3.4. Empathy Mapping
 
 <div align="center">
-  <img src="images\empathy.jpg">
+  <img src="assets/EmpathyMap.jpg">
 </div>
 
 ### 2.3.5. As-is Scenario Mapping
 
 As-is Map del Usuario
 <div align="center">
-  <img src="images\asismap.jpg">
+  <img src="assets/AsIsMapUsuario.jpg">
 </div>
 
 <br>
 
 As-is Map de la Empresa
 <div align="center">
-  <img src="images\asismap2.jpg">
+  <img src="assets/AsIsMapEmpresa.jpg">
 </div>
 
 # Capítulo III: Requeriments Specifications
