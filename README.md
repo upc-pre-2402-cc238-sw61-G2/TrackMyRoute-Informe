@@ -544,7 +544,7 @@ Duración: 5:08 minutos
 Evidencia de la reunión:
 
 <div align="center">
-  <img src="assets/">
+  <img src="assets/Entrevista04.png">
 </div>
 
 **Enlace de entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921734_upc_edu_pe/EXHEG_PwxKBMo-Saj7qtUhMBvdCQxVidwivN3u5SeOohaQ?e=hi2ysX 
