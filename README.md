@@ -332,7 +332,7 @@ Implementaremos estos modelos y evaluaremos la generación de ingresos y la acep
 
 #### 1.2.2.4. Lean UX Canvas
 
-![alt text](image.png)
+![Lean UX Canvas](https://github.com/upc-pre-2402-cc238-sw61-G2/TrackMyRoute-Informe/blob/main/assets/LeanUXCanvas.png)
 
 ---
 
