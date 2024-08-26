@@ -189,7 +189,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
   <tr align="center">
     <td rowspan="3">
-      <img src="images/" alt="Favio Sebastian Landeo Simeon" style="margin-bottom: 5px;" width="800"/> 
+      <img src="assets/FavioLandeo.png" alt="Favio Sebastian Landeo Simeon" style="margin-bottom: 5px;" width="800"/> 
     </td>
     <td align="left">
       <b>Nombre y Apellido:</b>
