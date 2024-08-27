@@ -1,37 +1,53 @@
-# <p align="center" id="caratula"> Universidad Peruana de Ciencias Aplicadas </p>
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"><br>
+    <strong>Ingeniería de Software</strong><br>
+    <strong>Aplicaciones para Dispositivos Móviles - SW61</strong><br>
+    <strong>Profesor: Jorge Luis Mayta Guillermo</strong><br>
+    <br>INFORME DE TRABAJO FINAL
+</p>
+<p align="center">
+    <strong>Startup: Grupo 2</strong><br>
+    <strong>Producto: TrackMyRoute</strong>
+</p>
+
+<div>
+    <h3 align="center">Relación de Integrantes:</h3>
+</div>
+
+<div align="center">
+     <table>
+        <tr>
+            <th style="text-align:center;">Integrante</th>
+            <th style="text-align:center;">Código</th>
+        </tr>
+        <tr>
+            <td>Anampa Lavado, Luis Angel</td>
+            <td>u202218664</td>
+        </tr>
+        <tr>
+            <td>Casimiro Fernandez, Carlos Oswaldo</td>
+            <td>u202115412</td>
+        </tr>
+        <tr>
+            <td>Huamán Cataño, Miguel Ángel</td>
+            <td>u202120615</td>
+        </tr>
+        <tr>
+            <td>Landeo Simeón, Favio Sebastián</td>
+            <td>u202119588</td>
+        </tr>
+        <tr>
+            <td>Orrego Noriega, Jorge David</td>
+            <td>u201921734</td>
+        </tr>
+    </table>
+</div>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
-</div>
+    <strong>Agosto 2024</strong>
+</p>
 
-### <p align="center"> Informe de Trabajo Final </p>
-<br>
-<div align="center">
-  <p> Carrera: Ingeniería de Software </p>
-  <br>
-  <p> Ciclo: 2024-2 </p>
-  <br>
-  <p> Curso: Aplicaciones para Dispositivos Móviles </p>
-  <br>
-  <p> Sección: SW61 </p>
-  <br>
-  <p> Profesor: Jorge Luis Mayta Guillermo </p>
-  <br>
-  <p> Nombre del Startup: Grupo 2 </p>
-  <br>
-  <p> Nombre del Producto: TrackMyRoute </p>
-  <br>
-  <p> Relación de Integrantes: </p>
-  <p>  - Anampa Lavado, Luis Angel (u202218664) </p>
-  <p>  - Casimiro Fernandez, Carlos Oswaldo (U202115412) </p>
-  <p>  - Huamán Cataño, Miguel Ángel (u202120615) </p>
-  <p>  - Landeo Simeón, Favio Sebastián (u202119588) </p>
-  <p>  - Orrego Noriega, Jorge David (u201921734) </p>
-  <br>
-  <p> Mes y Año: Agosto del 2024 </p>
-</div>
-
----
 
 # Tabla de contenidos
 
