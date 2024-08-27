@@ -181,7 +181,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
     <td align="left">
       <b>Acerca de:</b>
       <br>
-      INTRODUCCION MIGUEL ANGEL
+      Mi nombre es Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de ingeniería de software. Soy una persona que disfruta trabajar con empeño para alcanzar mis objetivos, nunca me rindo a pesar de los momentos difíciles y haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional
     </td>
   </tr>
   
