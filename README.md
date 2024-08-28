@@ -111,6 +111,18 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 ---
 
+# Objetivos SMART
+
+| **Nombre**                 | **Objetivo SMART**                                                                                                                                               |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Luis Angel Anampa Lavado** | Mi objetivo es desarrollar e implementar una aplicación móvil llamada "TrackMyRoute". Esta aplicación facilitará a los residentes de Lima encontrar las mejores rutas de transporte público, planificar sus viajes y obtener información en tiempo real sobre las rutas y medios de transporte. La aplicación también colaborará con las empresas de transporte para mejorar sus servicios. Mi segundo objetivo es completar el desarrollo e implementación de la aplicación, con todas las funcionalidades operativas. |
+| **Carlos Oswaldo Casimiro Fernández** |  |
+| **Miguel Ángel Huamán Cataño** | |
+| **Favio Sebastián Landeo Simeón** | |
+| **Jorge David Orrego Noriega** | |
+
+
+
 # Capítulo I: Introducción
 
 ## 1.1 Startup Profile
