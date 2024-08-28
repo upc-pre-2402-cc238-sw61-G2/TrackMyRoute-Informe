@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" id="caratula">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"><br>
     <strong>Ingeniería de Software</strong><br>
@@ -56,9 +56,9 @@
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
-  - [1.1 Startup Profile](#11-startup-profile)
-    - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
-    - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
   - [1.2. Solution Profile](#12-solution-profile)
     - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
     - [1.2.2. Lean UX Process](#122-lean-ux-process)
@@ -71,21 +71,50 @@
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-  - [2.2 Entrevistas](#22-entrevistas)
-    - [2.2.1 Diseño de entrevistas](#221-diseño-de-entrevistas)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
     - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
     - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-  - [2.3 Needfinding](#23-needfinding)
+  - [2.3. Needfinding](#23-needfinding)
     - [2.3.1. User Personas](#231-user-personas)
     - [2.3.2. User Task Matrix](#232-user-task-matrix)
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-- [Capítulo III: Requeriments Specifications](#capítulo-iii-requeriments-specifications)
-  - [3.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2 User Stories](#32-user-stories)
-  - [3.3 Impact Mapping](#33-impact-mapping)
-  - [3.4 Product Backlog](#34-product-backlog)
+  - [2.4. Requirements Specification](23-requirements-specification)
+    - [2.4.1. To-Be Scenario Mapping](#241-to-be-scenario-mapping)
+    - [2.4.2. User Stories](#242-user-stories)
+    - [2.4.3. Impact Mapping](#243-impact-mapping)
+    - [2.4.4. Product Backlog](#244-product-backlog)
+- [Capítulo III: Arquitectura](#capítulo-iii-arquitectura)
+- [3.1. Product design](#31-product-design)
+    - [3.1.1. Style Guidelines](#311-style-guidelines)
+         - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)
+    - [3.1.2. Information Architecture](#312-information-architecture)
+         - [3.1.2.1. Organization Systems](#3121-organization-systems)
+         - [3.1.2.2. Labelling Systems](#3122-labelling-systems)
+         - [3.1.2.3. SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)
+         - [3.1.2.4. Searching Systems](#3124-searching-systems)
+         - [3.1.2.5. Navigation Systems](#3125-navigation-systems)
+    - [3.1.3. Landing Page UI Design](#313-landing-page-ui-design)
+         - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
+         - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)
+    - [3.1.4. Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
+         - [3.1.4.1. Mobile Applications Wireframes](#3141-mobile-applications-wireframes)
+         - [3.1.4.2. Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)
+         - [3.1.4.3. Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)
+         - [3.1.4.4. Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)
+         - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping)
+  - [3.2. Architecture Overview](#32-architecture-overview)
+    - [3.2.1. Domain-Driven Software Architecture](#321-domain-driven-software-architecture)
+         - [3.2.1.1. Software Architecture Context Level Diagram](#3211-software-architecture-context-level-diagram)
+         - [3.2.1.2. Software Architecture Container Level Diagram](#3212-software-architecture-container-level-diagram)
+         - [3.2.1.3. Software Architecture Components Diagram](#3213-software-architecture-components-diagram)
+    - [3.2.2. Software Object-Oriented Design](#322-software-object-oriented-design)
+         - [3.2.2.1. Class Diagrams](#3221-class-diagrams)
+         - [3.2.2.2. Class Dictionary](#3222-class-dictionary)
+         - [3.2.2.3. Database Design](#3223-database-design)
+         - [3.2.2.4. Database Diagram](#3224-database-diagram)
 - [Conclusiones](#conclusiones)
 - [Anexos](#anexos)
 
@@ -120,13 +149,12 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | **Favio Sebastián Landeo Simeón** | |
 | **Jorge David Orrego Noriega** | |
 
-
+---
 
 # Capítulo I: Introducción
 
-## 1.1 Startup Profile
-
-### 1.1.1 Descripción de la Startup
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Startup
 
 "TrackMyRoute" es una startup innovadora que busca revolucionar la movilidad urbana en Lima a través de la tecnología. Nuestra plataforma está diseñada para facilitar el uso del transporte público, ofreciendo una solución integral que no solo ayuda a los usuarios a planificar sus trayectos de manera eficiente, sino que también mejora la experiencia de viaje al proporcionar información en tiempo real sobre rutas, tiempos de espera, y disponibilidad de vehículos. Al conectar a los usuarios con las mejores opciones de transporte en tiempo real, estamos transformando la manera en que las personas se desplazan por la ciudad. Además, nuestra colaboración con empresas de transporte público les permite optimizar sus operaciones y mejorar la calidad de sus servicios, creando así un ecosistema de movilidad más inteligente y conectado.
 
@@ -136,7 +164,9 @@ Ser la plataforma líder en movilidad urbana en América Latina, mejorando la ca
 ### Misión
 Facilitar el acceso a un transporte público más eficiente y confiable, brindando a los usuarios de Lima una herramienta poderosa para planificar sus viajes y optimizar sus desplazamientos diarios, mientras apoyamos a las empresas de transporte en la mejora continua de sus servicios.
 
-### 1.1.2 Perfiles de integrantes del equipo
+---
+
+### 1.1.2. Perfiles de integrantes del equipo
 
 <table align="center" border="1" width="70%" style="text-align:center; border-collapse: collapse;">
   <!-- Luis Angel Anampa Lavado -->
@@ -271,10 +301,13 @@ Facilitar el acceso a un transporte público más eficiente y confiable, brindan
   </tr>
 </table>
 
+---
 
 ## 1.2. Solution Profile
 
 En esta sección iniciaremos por un análisis de los antecedentes y problemática sobre la movilización en transporte público para identificar las raíces del problema e identificar algunas necesidades que se deban cubrir para llegar a una solución de la problemática. Asimismo, luego pasaremos por el proceso UX para poder analizar más a detalle la problemática y poder plantear una hipótesis acerca de la problemática.
+
+---
 
 ### 1.2.1. Antecedentes y problemática
 
@@ -298,9 +331,13 @@ Conclusiones de las 5W y 2H: En conclusión, la movilización en transportes pú
 
 ### 1.2.2. Lean UX Process
 
+---
+
 #### 1.2.2.1. Lean UX Problem Statements
 
 El propósito de TrackMyRoute es ayudar a las personas a planificar y realizar viajes en transporte público de manera fácil y eficiente. Además, de reducir los costos de transporte y la congestión de tráfico. Esto contribuye a mejorar la calidad del aire para reducir el impacto ambiental de los desplazamientos diarios.
+
+---
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -349,6 +386,8 @@ Business Assumptions
 
 10. Marketing efectivo: Suponemos que podemos llevar a cabo estrategias de marketing efectivas para aumentar la conciencia y la adopción de la aplicación entre los residentes y visitantes de Lima.
 
+---
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 Creemos que existe una demanda insatisfecha de una aplicación de planificación de rutas de transporte público en Lima.
@@ -381,7 +420,7 @@ Implementaremos estos modelos y evaluaremos la generación de ingresos y la acep
 - Los gerentes de operaciones y logística de estas empresas. <br>
 - Empresas formalizadas y con papeles en regla.
 
-
+---
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -398,9 +437,7 @@ Luego de realizar una investigación en el mercado, hemos encontrado tres proyec
   <br>
 
 <div align="center">
-
   <img src="https://moovit.com/wp-content/uploads/2020/03/opengraph-homepage-1.png">
-
 </div>
 
 <br><br>
@@ -412,9 +449,7 @@ Luego de realizar una investigación en el mercado, hemos encontrado tres proyec
   <br>
 
 <div align="center">
-
   <img src="https://logovectorseek.com/wp-content/uploads/2020/11/citymapper-logo-vector.png">
-
 </div>
 
 <br><br>
@@ -426,18 +461,19 @@ Luego de realizar una investigación en el mercado, hemos encontrado tres proyec
   <br>
 
 <div align="center">
-
   <img src="https://logowik.com/content/uploads/images/trafi-20215422.logowik.com.webp">
-
 </div>
 
 <br><br>
+
+---
 
 ### 2.1.1. Análisis competitivo
 
 <table>
 <tbody><tr><th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th></tr><tr><td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td><td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td></tr><tr><td colspan="5">Este análisis se concretó teniendo como finalidad el poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de ellos.</td></tr><tr><td colspan="3">Nuestro Producto / Competidores</td><td colspan="1" valign="top" style="font-weight: bold;">TrackMyRoute<br></td><td colspan="1" valign="top" style="font-weight: bold;">Moovit<br><img src="https://moovit.com/wp-content/uploads/2020/03/opengraph-homepage-1.png" alt="Mootvit" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">Citymapper<br><img src="https://logovectorseek.com/wp-content/uploads/2020/11/citymapper-logo-vector.png" alt="Citymapper" width="60px"></td><td colspan="1" valign="top" style="font-weight: bold;">Trafi<br><img src="https://logowik.com/content/uploads/images/trafi-20215422.logowik.com.webp" alt="Trafi" width="60px"></td></tr><tr><td colspan="1" rowspan="2">Perfil</td><td colspan="2">Overview</td><td colspan="1" valign="top">TrackMyRoute se destaca por su enfoque específico en mejorar la movilidad urbana en Lima, Perú. Ofrece una combinación de planificación de rutas, información en tiempo real sobre el estado del transporte público y la posibilidad de realizar pagos de pasajes dentro de la aplicación. Su colaboración con empresas de transporte público locales y la opción de una versión premium con funciones adicionales lo convierten en una opción atractiva para los residentes de Lima que buscan optimizar sus desplazamientos por la ciudad.</td><td colspan="1" valign="top">Moovit es una aplicación ampliamente reconocida a nivel mundial por su capacidad para proporcionar información detallada sobre rutas y horarios de transporte público en tiempo real. Con una amplia disponibilidad internacional, Moovit se destaca por su capacidad para ofrecer actualizaciones en tiempo real sobre el estado del servicio, alertas de servicio y una comunidad activa de usuarios que contribuyen con información valiosa sobre el transporte público en sus ciudades.</td><td colspan="1" valign="top">Citymapper es conocida por su enfoque integral en la planificación de viajes, ofreciendo opciones para una variedad de modos de transporte, incluidos el transporte público, bicicletas compartidas, scooters eléctricos y servicios de viaje compartido. Su diseño intuitivo y la capacidad de ofrecer opciones de rutas más rápidas o escénicas lo convierten en una opción popular entre los usuarios que buscan soluciones de movilidad flexibles y personalizadas en ciudades de todo el mundo.</td><td colspan="1" valign="top">Trafi ofrece una solución completa para la planificación de viajes en ciudades de todo el mundo, con información detallada sobre rutas y horarios de transporte público, así como opciones para otros modos de transporte como bicicletas compartidas y servicios de viaje compartido. Su enfoque en ofrecer soluciones de movilidad integrales y actualizaciones en tiempo real sobre el estado del servicio lo convierten en una herramienta valiosa para los usuarios que buscan optimizar sus desplazamientos urbanos.</td></tr><tr><td colspan="2">Ventaja competitiva</td><td colspan="1" valign="top">TrackMyRoute se destaca por su enfoque localizado en Lima, Perú, lo que permite una adaptación precisa a las necesidades del sistema de transporte público local. Además, su integración con las empresas de transporte público ofrece una experiencia más confiable y personalizada para los usuarios, brindando acceso a datos actualizados y recursos exclusivos.</td><td colspan="1" valign="top">Moovit sobresale por su amplia disponibilidad internacional, convirtiéndose en una opción confiable para usuarios que viajan entre diferentes ciudades y países. Además, sus actualizaciones en tiempo real sobre el estado del servicio y la participación activa de la comunidad de usuarios garantizan información precisa y confiable para optimizar los viajes en transporte público.</td><td colspan="1" valign="top">Citymapper ofrece una ventaja competitiva a través de su variedad de modos de transporte, que incluyen opciones como transporte público, bicicletas compartidas y servicios de viaje compartido. Su diseño intuitivo y las opciones de rutas personalizadas hacen que la planificación de viajes sea flexible y adaptada a las preferencias individuales de los usuarios.</td><td colspan="1" valign="top">Trafi destaca por ofrecer soluciones integrales de movilidad, proporcionando información detallada sobre una amplia variedad de modos de transporte. Sus actualizaciones en tiempo real sobre el estado del servicio permiten a los usuarios tomar decisiones informadas sobre sus desplazamientos, adaptándose a cualquier cambio en el transporte público de manera eficiente.</td></tr><tr><td colspan="1" rowspan="2">Perfil de Marketing</td><td colspan="2">Mercado objetivo</td><td colspan="1" valign="top">El mercado objetivo principal para TrackMyRoute son los residentes de Lima, Perú, que dependen del transporte público para sus desplazamientos diarios. Esto incluye a estudiantes, trabajadores y cualquier persona que utilice el transporte público en la ciudad. Además, la aplicación también puede ser útil para turistas y visitantes que desean explorar Lima utilizando el transporte público.</td><td colspan="1" valign="top">Moovit tiene un mercado objetivo amplio y diverso que abarca usuarios de transporte público en ciudades de todo el mundo. Esto incluye a personas de todas las edades y grupos demográficos que utilizan el transporte público como parte de su rutina diaria, así como viajeros y turistas que buscan orientación sobre el transporte público en nuevas ubicaciones.</td><td colspan="1" valign="top">Citymapper se dirige a usuarios urbanos en ciudades de todo el mundo que buscan una solución integral para planificar sus viajes utilizando una variedad de modos de transporte. Esto incluye a personas jóvenes y activas que prefieren opciones de movilidad flexibles y personalizadas, así como a profesionales y trabajadores que necesitan optimizar sus desplazamientos diarios.</td><td colspan="1" valign="top">Trafi está dirigido a usuarios urbanos en ciudades de todo el mundo que buscan una solución completa para planificar y optimizar sus viajes utilizando diferentes modos de transporte. Su mercado objetivo incluye a personas de todas las edades y grupos demográficos que dependen del transporte público y están interesadas en recibir información actualizada y precisa sobre sus opciones de movilidad.</td></tr><tr><td colspan="2">Estrategias de marketing</td><td colspan="1" valign="top">Publicidad dirigida en redes sociales, enfocada en residentes de Lima y colaboración con empresas de transporte público para promoción mutua.</td><td colspan="1" valign="top">Publicidad en plataformas online y apps de viajes. Tambien programas de referidos para usuarios existentes.</td><td colspan="1" valign="top">Creación de contenido educativo en video. Colaboraciones con influencers locales.</td><td colspan="1" valign="top">Optimización SEO para mejorar visibilidad en búsquedas. Participación en eventos de movilidad urbana.</td></tr><tr><td colspan="1" rowspan="3">Perfil de Producto</td><td colspan="2">Productos &amp; Servicios</td><td colspan="1" valign="top">TrackMyRoute ofrece una aplicación móvil para la planificación de rutas de transporte público en Lima, con una versión premium que incluye características como pagos integrados y actualizaciones en tiempo real. Además, se colabora con empresas de transporte público para mejorar la calidad de los servicios y la experiencia del usuario.</td><td colspan="1" valign="top">Moovit proporciona una aplicación móvil para la planificación de rutas y horarios de transporte público a nivel global. Ofrece actualizaciones en tiempo real sobre el estado del servicio y alertas de servicio, junto con una comunidad activa de usuarios que contribuyen con información sobre el transporte público.</td><td colspan="1" valign="top">Citymapper ofrece una aplicación móvil para la planificación de viajes integrales en ciudades de todo el mundo. La aplicación proporciona rutas para una variedad de modos de transporte y opciones de rutas personalizadas, con un diseño intuitivo para mejorar la experiencia del usuario.</td><td colspan="1" valign="top">Trafi es una aplicación móvil que permite la planificación de viajes en ciudades globales. Ofrece información detallada sobre rutas y horarios de transporte público, así como opciones para otros modos de transporte. Además, proporciona actualizaciones en tiempo real sobre el estado del servicio y soluciones integrales de movilidad para usuarios urbanos.</td></tr><tr><td colspan="2">Precios &amp; Costos</td><td colspan="1" valign="top">Ofrece una versión gratuita con opciones básicas y una versión premium con características adicionales que los usuarios pueden adquirir mediante una tarifa mensual o anual. Los ingresos provienen de la venta de la versión premium y los costos asociados incluyen desarrollo inicial, mantenimiento de servidores, actualizaciones de software y posibles costos de soporte técnico.</td><td colspan="1" valign="top">La aplicación es gratuita para los usuarios, generando ingresos principalmente a través de acuerdos de publicidad y posiblemente asociaciones con empresas de transporte público. Los costos incluyen el desarrollo continuo de la aplicación, mantenimiento de servidores y posibles costos de soporte técnico y marketing.</td><td colspan="1" valign="top">Es gratuita para los usuarios y probablemente genere ingresos a través de acuerdos de publicidad y posibles asociaciones con empresas de transporte. Los costos están asociados con el desarrollo y mantenimiento continuo de la aplicación, así como los gastos de servidores y posibles costos de marketing.</td><td colspan="1" valign="top">Igualmente gratuita para los usuarios, Trafi podría generar ingresos a través de acuerdos de publicidad y posiblemente asociaciones con empresas de transporte. Los costos incluyen el desarrollo y mantenimiento de la aplicación, así como los gastos de servidores y posibles costos de marketing y soporte técnico.</td></tr><tr><td colspan="2">Canales de distribución (Web y/o Móvil)</td><td colspan="1" valign="top">La aplicación puede distribuirse a través de su propio sitio web, donde los usuarios pueden acceder a información sobre la aplicación y descargarla desde enlaces directos a las tiendas de aplicaciones.</td><td colspan="1" valign="top">Moovit ofrece información sobre la aplicación y enlaces de descarga en su sitio web oficial, permitiendo a los usuarios acceder y descargar la aplicación desde sus navegadores web.</td><td colspan="1" valign="top">Citymapper proporciona información sobre la aplicación y enlaces de descarga en su sitio web oficial, permitiendo a los usuarios acceder y descargar la aplicación desde sus navegadores web.</td><td colspan="1" valign="top">Trafi ofrece información sobre la aplicación y enlaces de descarga en su sitio web oficial, permitiendo a los usuarios acceder y descargar la aplicación desde sus navegadores web.</td><tr></tr><td colspan="1" rowspan="5">Análisis SWOT</td></td></tr><tr><td colspan="2">Fortalezas</td><td colspan="1" valign="top">Enfoque localizado en Lima, integración con empresas de transporte público, versión premium con funciones adicionales.</td><td colspan="1" valign="top">Amplia disponibilidad internacional, actualizaciones en tiempo real, comunidad activa de usuarios.</td><td colspan="1" valign="top">Variedad de modos de transporte, diseño intuitivo, opciones de rutas personalizadas.</td><td colspan="1" valign="top">Soluciones integrales de movilidad, actualizaciones en tiempo real, enfoque en la experiencia del usuario.</td></tr><tr><td colspan="2">Debilidades</td><td colspan="1" valign="top">Dependencia del desarrollo del sistema de transporte público en Lima, competencia con aplicaciones establecidas.</td><td colspan="1" valign="top">Dependencia de la calidad de los datos de transporte público, competencia con otras aplicaciones similares.</td><td colspan="1" valign="top">Dependencia de la calidad de los datos de transporte, competencia con aplicaciones establecidas como Moovit.</td><td colspan="1" valign="top">Dependencia de la calidad de los datos de transporte público, competencia con aplicaciones más establecidas como Moovit y Citymapper.</td></tr><tr><td colspan="2">Oportunidades</td><td colspan="1" valign="top">Crecimiento del mercado de aplicaciones de movilidad urbana en Lima, colaboración con más empresas de transporte público, expansión a otras ciudades.</td><td colspan="1" valign="top">Expansión a nuevos mercados, desarrollo de nuevas características y funcionalidades, colaboraciones con más empresas de transporte.</td><td colspan="1" valign="top">Expansión a nuevas ciudades, desarrollo de nuevas características innovadoras, colaboraciones con empresas de transporte y urbanismo.</td><td colspan="1" valign="top">Expansión a nuevos mercados globales, desarrollo de nuevas funciones para mejorar la experiencia del usuario, colaboraciones con empresas de transporte y gobierno.</td></tr><tr><td colspan="2">Amenazas</td><td colspan="1" valign="top">Cambios en la infraestructura de transporte, entrada de competidores locales o globales.</td><td colspan="1" valign="top">Entrada de nuevos competidores, cambios en las políticas de datos de transporte público.</td><td colspan="1" valign="top">Cambios en la infraestructura de transporte, entrada de nuevos competidores con características similares.</td><td colspan="1" valign="top"> Cambios en las políticas de transporte, entrada de nuevos competidores con enfoques similares.</td></tr></tbody></table>
 
+---
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
@@ -471,8 +507,10 @@ Estrategia: La startup se comprometerá a monitorear de cerca las acciones y est
   <br>  <br>
 Tácticas: Para ejecutar esta estrategia, se realizarán análisis periódicos de la competencia para identificar nuevas oportunidades y amenazas, se seguirán de cerca las actualizaciones y lanzamientos de productos de los competidores, y se ajustará la estrategia de la startup en función de los cambios en el mercado competitivo.
 
-## 2.2 Entrevistas
-### 2.2.1 Diseño de entrevistas
+---
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
 Nuestro objetivo es obtener información sobre las necesidades y los problemas de los usuarios de
 transporte público en Lima. Esta información se utilizará para mejorar el servicio de nuestra empresa.
 Nuestros participantes serán usuarios de transporte público en Lima. Se seleccionarán participantes
@@ -507,6 +545,8 @@ libremente. A continuación, se presentan algunos ejemplos de preguntas:
 - ¿Qué aspectos consideraría más importantes al evaluar y seleccionar una aplicación para su empresa?
 - ¿Cuál sería su principal preocupación o requisito al considerar la adopción de una nueva aplicación o plataforma tecnológica para su empresa de transporte público?
 - ¿Tiene alguna experiencia previa en la implementación o uso de aplicaciones similares en su empresa o en la industria del transporte público en general?
+
+---
 
 ### 2.2.2. Registro de entrevistas
 
@@ -598,6 +638,8 @@ Evidencia de la reunión:
 
 El análisis de la entrevista revela que los usuarios de transporte público en Lima valoran la puntualidad, la disponibilidad de información actualizada y la seguridad durante los viajes. Utilizan principalmente dispositivos móviles para acceder a aplicaciones y canales digitales, como Google Maps y Moovit, para planificar sus viajes. Esperan características como la visualización en tiempo real de los autobuses y notificaciones sobre cambios en el servicio, junto con una interfaz intuitiva y opciones de personalización. Su disposición a pagar por una versión premium depende de si ofrece mejoras significativas en la experiencia de viaje. En resumen, los usuarios buscan una aplicación confiable, precisa y fácil de usar que satisfaga sus necesidades de planificación de viajes en transporte público y mejore su experiencia general.
 
+---
+
 ### 2.2.3. Análisis de entrevistas
 
 **Análisis de las Entrevistas: Usuarios Regulares del Transporte Público en Lima**
@@ -608,7 +650,9 @@ El análisis de la entrevista revela que los usuarios de transporte público en 
 
 Las empresas de transporte público en Lima expresaron la necesidad de una aplicación que les permita optimizar la gestión de sus flotas, coordinar horarios y mejorar la eficiencia operativa. Esperan una aplicación fácil de usar que proporcione información precisa y actualizada sobre las rutas de transporte público, los horarios y las ubicaciones de las paradas. Además, valorarían características adicionales como la capacidad de gestionar flotas de manera eficiente, la generación de informes de rendimiento y la integración con sistemas de pago electrónico. La fiabilidad y la consistencia en el funcionamiento de la aplicación son aspectos clave para estas empresas, quienes necesitan contar con una herramienta confiable para gestionar sus operaciones diarias. Están abiertas a colaborar estrechamente con los desarrolladores de la aplicación para adaptarla a sus necesidades específicas y garantizar una implementación exitosa en sus operaciones
 
-## 2.3 Needfinding
+---
+
+## 2.3. Needfinding
 ### 2.3.1. User Personas
 
 Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo:
@@ -616,19 +660,17 @@ Los User Personas son necesarios para la formación de este proyecto, ya que bri
 **User Persona del segmento: Usuarios Diarios de Transporte Público en Lima**
 
 <div align="center">
-
   <img src="https://i.imgur.com/ebiHXz2.png">
-
 </div>
 
 **User Persona del segmento: Empresas de transporte en Lima**
 
 <div align="center">
-
   <img src="https://i.imgur.com/Tz0fqBD.png">
-
 </div>
 <br>
+
+---
 
 ### 2.3.2. User Task Matrix
 
@@ -662,6 +704,8 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 | Proporcionar retroalimentación sobre la aplicación     | Rara vez      | Media    |
 | Monitorear la satisfacción del cliente y gestionar quejas | Casi siempre     | Media   |
 
+---
+
 ### 2.3.3. User Journey Mapping
 
 **User Journey Mapping del segmento: Usuarios Diarios de Transporte Público en Lima**
@@ -676,11 +720,15 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
   <img src="assets/UserJourneyEmpresa.png">
 </div>
 
+---
+
 ### 2.3.4. Empathy Mapping
 
 <div align="center">
   <img src="assets/EmpathyMap.jpg">
 </div>
+
+---
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -696,9 +744,10 @@ As-is Map de la Empresa
   <img src="assets/AsIsMapEmpresa.jpg">
 </div>
 
-# Capítulo III: Requeriments Specifications
+---
 
-## 3.1 To-Be Scenario Mapping
+## 2.4. Requirements Specifications
+### 2.4.1. To-Be Scenario Mapping
 
 Con la herramiento del To-be scenario mapping exploramos las mejoras y las nuevas funcionalidades que se incorporarán en la aplicación “TrackMyRoute”. Estas mejoras están diseñadas para optimizar la experiencia de los usuarios al movilizarse por la ciudad de Lima en transporte público y proporcionar a la empresa de transporte una visión en tiempo real de sus clientes. A través de este proceso, visualizamos cómo la aplicación evolucionará para brindar un servicio más eficiente y útil a los dos grupos de usuarios.
 
@@ -707,8 +756,9 @@ Con la herramiento del To-be scenario mapping exploramos las mejoras y las nueva
 </div>
 <br>
 
+---
 
-## 3.2 User Stories
+### 2.4.2. User Stories
 
 En la sección de User Stories, detallaremos las diversas necesidades y requerimientos de nuestros
 usuarios y la empresa de transporte. Cada historia de usuario representará un escenario o una función
@@ -756,9 +806,9 @@ urbana.
 |HU33 | Historial de Viajes | Como cliente, quiero poder acceder a un historial detallado de mis viajes anteriores en la aplicación para que pueda realizar un seguimiento de mis desplazamientos y gastos. | Dado que el cliente desea revisar sus viajes pasados, Cuando accede a la sección de historial de viajes, Entonces se muestra una lista cronológica de todos los viajes realizados, incluyendo detalles como fecha, hora, ruta, costo, y método de pago utilizado.|
 |HU34 | Recuperación de Contraseña | Como cliente, quiero tener la opción de recuperar mi contraseña en caso de olvido o pérdida para que pueda volver a acceder a mi cuenta sin problemas. | Dado que el cliente ha olvidado su contraseña, Cuando selecciona la opción de recuperación de contraseña e ingresa su dirección de correo electrónico o número de teléfono asociado a la cuenta, Entonces recibe un enlace o código de verificación que le permite restablecer su contraseña y acceder nuevamente a su cuenta.|
 
+---
 
-
-## 3.3 Impact Mapping
+### 2.4.3. Impact Mapping
 
 En la sección de Impact Mapping, exploraremos las repercusiones más amplias y los objetivos
 estratégicos que buscamos lograr con la implementación de esta aplicación. En lugar de centrarnos en
@@ -772,7 +822,9 @@ informadas sobre qué aspectos priorizar y cómo medir el éxito a largo plazo.
   <img src="assets/ImpactMap.png">
 </div>
 
-## 3.4 Product Backlog
+---
+
+### 2.4.4. Product Backlog
 
 |#Orden|User Story ID|Título|Descripción|Story Points|
 |:----|:----|:----|:----|:----|
@@ -812,3 +864,42 @@ informadas sobre qué aspectos priorizar y cómo medir el éxito a largo plazo.
 |34| HU34| Recuperación de Contraseña| Como cliente, quiero tener la opción de recuperar mi contraseña en caso de olvido o pérdida para que pueda volver a acceder a mi cuenta sin problemas| 3|
 
 ---
+
+# Capítulo III: Arquitectura
+## 3.1. Product design
+### 3.1.1. Style Guidelines
+#### 3.1.1.1. General Style Guidelines
+### 3.1.2. Information Architecture
+#### 3.1.2.1. Organization Systems
+#### 3.1.2.2. Labelling Systems
+#### 3.1.2.3. SEO Tags and Meta Tags
+#### 3.1.2.4. Searching Systems
+#### 3.1.2.5. Navigation Systems
+### 3.1.3. Landing Page UI Design
+#### 3.1.3.1. Landing Page Wireframe
+#### 3.1.3.2. Landing Page Mock-up
+### 3.1.4. Mobile Applications UX/UI Design
+#### 3.1.4.1. Mobile Applications Wireframes
+#### 3.1.4.2. Mobile Applications Wireflow Diagrams
+#### 3.1.4.3. Mobile Applications Mock-ups
+#### 3.1.4.4. Mobile Applications User Flow Diagrams
+#### 3.1.4.5. Mobile Applications Prototyping
+## 3.2. Architecture Overview
+### 3.2.1. Domain-Driven Software Architecture
+#### 3.2.1.1. Software Architecture Context Level Diagram
+#### 3.2.1.2. Software Architecture Container Level Diagram
+#### 3.2.1.3. Software Architecture Components Diagram
+### 3.2.2. Software Object-Oriented Design
+#### 3.2.2.1. Class Diagrams
+#### 3.2.2.2. Class Dictionary
+#### 3.2.2.3. Database Design
+#### 3.2.2.4. Database Diagram
+
+---
+
+# Conclusiones
+
+---
+
+# Anexos
+
