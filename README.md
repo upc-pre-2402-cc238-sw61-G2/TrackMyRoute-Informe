@@ -117,7 +117,13 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 ### 1.1.1 Descripción de la Startup
 
-"TrackMyRoute" es una startup con la principal intención de transformar la forma en que las personas se desplazan por la ciudad utilizando el transporte público. Nuestra misión es simplificar y mejorar la movilidad urbana, ofreciendo a los residentes de Lima una aplicación integral que les permita encontrar las mejores rutas de transporte público para llegar a sus destinos de manera eficiente. Nuestra aplicación no solo brinda a los usuarios la capacidad de planificar sus viajes de manera óptima, sino que también proporciona información en tiempo real sobre el estado de las rutas y la disponibilidad de los medios de transporte. Además, colaboramos estrechamente con las empresas de transporte público para que también puedan beneficiarse de esta plataforma, obteniendo una visión en tiempo real de sus clientes y mejorando la calidad de sus servicios.
+"TrackMyRoute" es una startup innovadora que busca revolucionar la movilidad urbana en Lima a través de la tecnología. Nuestra plataforma está diseñada para facilitar el uso del transporte público, ofreciendo una solución integral que no solo ayuda a los usuarios a planificar sus trayectos de manera eficiente, sino que también mejora la experiencia de viaje al proporcionar información en tiempo real sobre rutas, tiempos de espera, y disponibilidad de vehículos. Al conectar a los usuarios con las mejores opciones de transporte en tiempo real, estamos transformando la manera en que las personas se desplazan por la ciudad. Además, nuestra colaboración con empresas de transporte público les permite optimizar sus operaciones y mejorar la calidad de sus servicios, creando así un ecosistema de movilidad más inteligente y conectado.
+
+### Visión
+Ser la plataforma líder en movilidad urbana en América Latina, mejorando la calidad de vida de millones de personas al ofrecer soluciones innovadoras y sostenibles para el transporte público.
+
+### Misión
+Facilitar el acceso a un transporte público más eficiente y confiable, brindando a los usuarios de Lima una herramienta poderosa para planificar sus viajes y optimizar sus desplazamientos diarios, mientras apoyamos a las empresas de transporte en la mejora continua de sus servicios.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
