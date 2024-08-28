@@ -371,16 +371,16 @@ Implementaremos estos modelos y evaluaremos la generación de ingresos y la acep
 
 ## 1.3. Segmentos Objetivo
 
-Segmento objetivo 1: Pasajeros en busca de un autobús
+### Segmento objetivo 1: Pasajeros en busca de un autobús
 
-• Personas que viajan al trabajo o la escuela en transporte público. <br>
-• Turistas que exploran Lima y prefieren utilizar el transporte público. <br>
-• Personas que no tienen acceso a un vehículo personal y dependen del transporte público para sus desplazamientos diarios.
+- Personas que viajan al trabajo o la escuela en transporte público. <br>
+- Turistas que exploran Lima y prefieren utilizar el transporte público. <br>
+- Personas que no tienen acceso a un vehículo personal y dependen del transporte público para sus desplazamientos diarios.
 
-Segmento objetivo 2: Empresas de transporte que operan en Lima.
+### Segmento objetivo 2: Empresas de transporte que operan en Lima.
 
-• Los gerentes de operaciones y logística de estas empresas. <br>
-• Empresas formalizadas y con papeles en regla.
+- Los gerentes de operaciones y logística de estas empresas. <br>
+- Empresas formalizadas y con papeles en regla.
 
 
 
