@@ -65,6 +65,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Tabla de contenidos](#tabla-de-contenidos)
 - [Student Outcome](#student-outcome)
+- [Objetivos SMART](#objetivos-smart)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
