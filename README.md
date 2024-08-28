@@ -121,140 +121,139 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-<table align="center"  border="1" width="70%" style="text-align:center;">
+<table align="center" border="1" width="70%" style="text-align:center; border-collapse: collapse;">
+  <!-- Luis Angel Anampa Lavado -->
   <tr align="center">
-    <td rowspan="3">
-      <img src="assets/Anampa_Angel.jpg" alt="Luis Angel Anampa Lavado" style="margin-bottom: 5px;" width="800"/> 
+    <td rowspan="3" width="30%">
+      <img src="assets/Anampa_Angel.jpg" alt="Luis Angel Anampa Lavado" style="margin-bottom: 5px;" width="200"/> 
     </td>
-    <td align="left">
-      <b>Nombre y Apellido:</b>
-      <br>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
       Luis Angel Anampa Lavado
-      </td>
+    </td>
   </tr>
   <tr>
-    <td align="left">
-      <b>Carrera:</b>
-      <br>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
       Ingeniería de Software
     </td>
   </tr>
   <tr>
-    <td align="left">
-      <b>Acerca de:</b>
-      <br>
-      Mi nombre es Angel Anampa y tengo 19 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Elegí dicha carrera porque soy una persona que le interesa mucho los temas que tienen que ver con tecnología , me gustan los videojuegos. Me considero una persona atenta, responsable , optimista que sabe solucionar los problemas. Como integrante del equipo me comprometo a apoyar al grupo en este trabajo.
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Mi nombre es Angel Anampa y tengo 19 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Elegí dicha carrera porque soy una persona que le interesa mucho los temas que tienen que ver con tecnología, me gustan los videojuegos. Me considero una persona atenta, responsable, optimista que sabe solucionar los problemas. Como integrante del equipo me comprometo a apoyar al grupo en este trabajo.
     </td>
   </tr>
   
-  ---
-  
+  <tr>
+    <td colspan="2" style="padding: 10px;"></td>
+  </tr>
+
+  <!-- Carlos Oswaldo Casimiro Fernández -->
   <tr align="center">
-    <td rowspan="3">
-      <img src="images/" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="800"/>
+    <td rowspan="3" width="30%">
+      <img src="assets/CarlosOswaldoCasimiro.png" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="200"/>
     </td>
-    <td align="left">
-      <b>Nombre y Apellido:</b>
-      <br>
-      Carlos Oswaldo, Casimiro Fernández
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <b>Carrera:</b>
-      <br>
-        Ingeniería de Software
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
+      Carlos Oswaldo Casimiro Fernández
     </td>
   </tr>
   <tr>
-    <td align="left">
-      <b>Acerca de:</b>
-      <br>
-      Tengo 20 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, educada y sociable con los que me rodean. Además cuento con habilidades peculiares como la animación en 3d, edición de videos cinematográficos y conocimiento en lenguajes como c + +, Python.
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
+      Ingeniería de Software
     </td>
   </tr>
-
----
-
-<tr align="center">
-    <td rowspan="3">
-      <img src="assets/MiguelHuaman.png" alt="Miguel Angel Huaman Cataño" style="margin-bottom: 5px;" width="800"/> 
+  <tr>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Tengo 20 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, educada y sociable con los que me rodean. Además, cuento con habilidades peculiares como la animación en 3D, edición de videos cinematográficos y conocimiento en lenguajes como C++, Python.
     </td>
-    <td align="left">
-      <b>Nombre y Apellido:</b>
-      <br>
+  </tr>
+  
+  <tr>
+    <td colspan="2" style="padding: 10px;"></td>
+  </tr>
+
+  <!-- Miguel Ángel Huamán Cataño -->
+  <tr align="center">
+    <td rowspan="3" width="30%">
+      <img src="assets/MiguelHuaman.png" alt="Miguel Angel Huaman Cataño" style="margin-bottom: 5px;" width="200"/> 
+    </td>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
       Miguel Ángel Huamán Cataño
-      </td>
+    </td>
   </tr>
   <tr>
-    <td align="left">
-      <b>Carrera:</b>
-      <br>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
       Ingeniería de Software
     </td>
   </tr>
   <tr>
-    <td align="left">
-      <b>Acerca de:</b>
-      <br>
-      Mi nombre es Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de ingeniería de software. Soy una persona que disfruta trabajar con empeño para alcanzar mis objetivos, nunca me rindo a pesar de los momentos difíciles y haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
+      Mi nombre es Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de Ingeniería de Software. Soy una persona que disfruta trabajar con empeño para alcanzar mis objetivos, nunca me rindo a pesar de los momentos difíciles, y haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional.
     </td>
   </tr>
   
-  ---
+  <tr>
+    <td colspan="2" style="padding: 10px;"></td>
+  </tr>
 
+  <!-- Favio Sebastián Landeo Simeón -->
   <tr align="center">
-    <td rowspan="3">
-      <img src="assets/FavioLandeo.png" alt="Favio Sebastian Landeo Simeon" style="margin-bottom: 5px;" width="800"/> 
+    <td rowspan="3" width="30%">
+      <img src="assets/FavioLandeo.png" alt="Favio Sebastian Landeo Simeon" style="margin-bottom: 5px;" width="200"/> 
     </td>
-    <td align="left">
-      <b>Nombre y Apellido:</b>
-      <br>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
       Favio Sebastián Landeo Simeón
-      </td>
+    </td>
   </tr>
   <tr>
-    <td align="left">
-      <b>Carrera:</b>
-      <br>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
       Ingeniería de Software
     </td>
   </tr>
   <tr>
-    <td align="left">
-      <b>Acerca de:</b>
-      <br>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
       Tengo 20 años y actualmente estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Estoy disponible para ayudar siempre a mis compañeros y además tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo. En mis tiempos libres me gusta escuchar música, jugar videojuegos y editar videos.
     </td>
   </tr>
   
-  ---
+  <tr>
+    <td colspan="2" style="padding: 10px;"></td>
+  </tr>
 
+  <!-- Jorge David Orrego Noriega -->
   <tr align="center">
-    <td rowspan="3">
-      <img src="assets/JorgeOrrego.png" alt="Jorge David Orrego Noriega" style="margin-bottom: 5px;" width="800"/> 
+    <td rowspan="3" width="30%">
+      <img src="assets/JorgeOrrego.png" alt="Jorge David Orrego Noriega" style="margin-bottom: 5px;" width="200"/> 
     </td>
-    <td align="left">
-      <b>Nombre y Apellido:</b>
-      <br>
+    <td align="left" style="padding: 10px;">
+      <b>Nombre y Apellido:</b><br>
       Jorge David Orrego Noriega
-      </td>
+    </td>
   </tr>
   <tr>
-    <td align="left">
-      <b>Carrera:</b>
-      <br>
+    <td align="left" style="padding: 10px;">
+      <b>Carrera:</b><br>
       Ingeniería de Software
     </td>
   </tr>
   <tr>
-    <td align="left">
-      <b>Acerca de:</b>
-      <br>
+    <td align="left" style="padding: 10px;">
+      <b>Acerca de:</b><br>
       Estudio actualmente la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y la razón por la cual me encuentro estudiando esta carrera es porque siempre he tenido un interés particular por la tecnología, con un mayor énfasis en el software.
     </td>
   </tr>
 </table>
+
 
 ## 1.2. Solution Profile
 
