@@ -48,12 +48,22 @@
     <strong>Agosto 2024</strong>
 </p>
 
+---
+
+# Registro de Versiones del Informe
+El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
+
+| **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
+| ----------- | --------- | --------- | ------------------------------- |
+| v1.0        | 23/08/2024 | Todos los integrantes | Definimos la parte de la introducción de nuestro proyecto, la obtención y análisis de requisitos junto a las especificaciones de estos. |
+
+---
 
 # Tabla de contenidos
 
 - [Carátula](#caratula)
-- [Tabla de contenidos](#tabla-de-contenidos)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Tabla de contenidos](#tabla-de-contenidos)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
@@ -117,15 +127,6 @@
          - [3.2.2.4. Database Diagram](#3224-database-diagram)
 - [Conclusiones](#conclusiones)
 - [Anexos](#anexos)
-
----
-
-# Registro de Versiones del Informe
-El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
-
-| **Versión** | **Fecha** | **Autor** | **Descripción de Modificación** |
-| ----------- | --------- | --------- | ------------------------------- |
-| v1.0        | 23/08/2024 | Todos los integrantes | Definimos la parte de la introducción de nuestro proyecto, la obtención y análisis de requisitos junto a las especificaciones de estos. |
 
 ---
 
