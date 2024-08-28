@@ -131,11 +131,13 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 # Student Outcome
 
-<b> ABET – EAC - Student Outcome 7 </b>
+<b> ABET – EAC - Student Outcome 7 </b> <br>
+<b> La capacidad de adquirir y aplicar nuevos conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas. </b>
 
 | Criterio específico  | Acciones realizadas | Conclusiones |
 |----------------------|-------------------- | ------------ |
-| La capacidad de adquirir y aplicar nuevos conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas. |                                                                             **Anampa Lavado, Luis Angel** <br> <br> **TB1:** TB1 <br> <br> <br> **Carlos Oswaldo Casimiro Fernández** <br> <br> **TB1:** TB1 <br> <br> <br> **Miguel Ángel Huamán Cataño** <br> <br> **TB1:** TB1 <br> <br> <br> **Favio Sebastián Landeo Simeón** <br> <br> **TB1:** TB1 <br> <br> <br> **Jorge David Orrego Noriega** <br> <br> **TB1:** TB1 <br> <br> <br> | TB1conclusión |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. |                                                                             **Anampa Lavado, Luis Angel** <br> <br> **TB1:** TB1 <br> <br> <br> **Carlos Oswaldo Casimiro Fernández** <br> <br> **TB1:** TB1 <br> <br> <br> **Miguel Ángel Huamán Cataño** <br> <br> **TB1:** TB1 <br> <br> <br> **Favio Sebastián Landeo Simeón** <br> <br> **TB1:** TB1 <br> <br> <br> **Jorge David Orrego Noriega** <br> <br> **TB1:** TB1 <br> <br> <br> | TB1conclusión |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. |                                                                              **Anampa Lavado, Luis Angel** <br> <br> **TB1:** TB1 <br> <br> <br> **Carlos Oswaldo Casimiro Fernández** <br> <br> **TB1:** TB1 <br> <br> <br> **Miguel Ángel Huamán Cataño** <br> <br> **TB1:** TB1 <br> <br> <br> **Favio Sebastián Landeo Simeón** <br> <br> **TB1:** TB1 <br> <br> <br> **Jorge David Orrego Noriega** <br> <br> **TB1:** TB1 <br> <br> <br> | TB1conclusión |
 
 ---
 
