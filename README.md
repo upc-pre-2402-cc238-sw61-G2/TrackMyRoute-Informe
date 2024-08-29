@@ -150,7 +150,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | **Luis Angel Anampa Lavado** | Mi objetivo es desarrollar e implementar una aplicación móvil llamada "TrackMyRoute". Esta aplicación facilitará a los residentes de Lima encontrar las mejores rutas de transporte público, planificar sus viajes y obtener información en tiempo real sobre las rutas y medios de transporte. La aplicación también colaborará con las empresas de transporte para mejorar sus servicios. Mi segundo objetivo es completar el desarrollo e implementación de la aplicación, con todas las funcionalidades operativas. | |
 | **Carlos Oswaldo Casimiro Fernández** |  | |
 | **Miguel Ángel Huamán Cataño** | | |
-| **Favio Sebastián Landeo Simeón** | Tratar de aplicar los conocimientos que nos brinde el profesor y los demás recursos que estén a mi alcance para lograr completar satisfactoriamente el trabajo final de forma cooperativa. | |
+| **Favio Sebastián Landeo Simeón** | Tratar de aplicar los conocimientos que nos brinde el profesor y los demás recursos que estén a mi alcance para lograr completar satisfactoriamente el trabajo final de forma cooperativa. | 28/08/2024 |
 | **Jorge David Orrego Noriega** | Cuando falten cinco días para la entrega del trabajo, iré coordinando con mis compañeros para ver qué falta por hacer por medio de una lista de pendientes, en la cual se asignará a un integrante del equipo por cada tarea no finalizada. | 26/08/2024 |
 
 ---
