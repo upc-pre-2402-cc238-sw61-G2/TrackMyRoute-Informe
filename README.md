@@ -166,11 +166,6 @@ Facilitar el acceso a un transporte público más eficiente y confiable, brindan
       Mi nombre es Angel Anampa y tengo 19 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Elegí dicha carrera porque soy una persona que le interesa mucho los temas que tienen que ver con tecnología, me gustan los videojuegos. Me considero una persona atenta, responsable, optimista que sabe solucionar los problemas. Como integrante del equipo me comprometo a apoyar al grupo en este trabajo.
     </td>
   </tr>
-  
-  <tr>
-    <td colspan="2" style="padding: 10px;"></td>
-  </tr>
-
   <!-- Carlos Oswaldo Casimiro Fernández -->
   <tr align="center">
     <td rowspan="3" width="30%">
@@ -193,11 +188,6 @@ Facilitar el acceso a un transporte público más eficiente y confiable, brindan
       Tengo 20 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, educada y sociable con los que me rodean. Además, cuento con habilidades peculiares como la animación en 3D, edición de videos cinematográficos y conocimiento en lenguajes como C++, Python.
     </td>
   </tr>
-  
-  <tr>
-    <td colspan="2" style="padding: 10px;"></td>
-  </tr>
-
   <!-- Miguel Ángel Huamán Cataño -->
   <tr align="center">
     <td rowspan="3" width="30%">
@@ -220,11 +210,6 @@ Facilitar el acceso a un transporte público más eficiente y confiable, brindan
       Mi nombre es Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de Ingeniería de Software. Soy una persona que disfruta trabajar con empeño para alcanzar mis objetivos, nunca me rindo a pesar de los momentos difíciles, y haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional.
     </td>
   </tr>
-  
-  <tr>
-    <td colspan="2" style="padding: 10px;"></td>
-  </tr>
-
   <!-- Favio Sebastián Landeo Simeón -->
   <tr align="center">
     <td rowspan="3" width="30%">
@@ -247,11 +232,6 @@ Facilitar el acceso a un transporte público más eficiente y confiable, brindan
       Tengo 20 años y actualmente estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Estoy disponible para ayudar siempre a mis compañeros y además tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo. En mis tiempos libres me gusta escuchar música, jugar videojuegos y editar videos.
     </td>
   </tr>
-  
-  <tr>
-    <td colspan="2" style="padding: 10px;"></td>
-  </tr>
-
   <!-- Jorge David Orrego Noriega -->
   <tr align="center">
     <td rowspan="3" width="30%">
@@ -275,7 +255,6 @@ Facilitar el acceso a un transporte público más eficiente y confiable, brindan
     </td>
   </tr>
 </table>
-
 
 
 ## 1.2. Solution Profile
@@ -375,7 +354,7 @@ Implementaremos estos modelos y evaluaremos la generación de ingresos y la acep
 
 #### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](https://github.com/upc-pre-2402-cc238-sw61-G2/TrackMyRoute-Informe/blob/main/assets/LeanUXCanvas.png)
+<img src="assets/LeanUXCanvas.png">
 
 
 
