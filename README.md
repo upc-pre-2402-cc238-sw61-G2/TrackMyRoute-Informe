@@ -138,20 +138,20 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 | Criterio específico  | Acciones realizadas | Conclusiones |
 |----------------------|-------------------- | ------------ |
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. |                                                                             **Anampa Lavado, Luis Angel** <br> <br> **TB1:** TB1 <br> <br> <br> **Carlos Oswaldo Casimiro Fernández** <br> <br> **TB1:** TB1 <br> <br> <br> **Miguel Ángel Huamán Cataño** <br> <br> **TB1:** TB1 <br> <br> <br> **Favio Sebastián Landeo Simeón** <br> <br> **TB1:** TB1 <br> <br> <br> **Jorge David Orrego Noriega** <br> <br> **TB1:** TB1 <br> <br> <br> | TB1conclusión |
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. |                                                                              **Anampa Lavado, Luis Angel** <br> <br> **TB1:** TB1 <br> <br> <br> **Carlos Oswaldo Casimiro Fernández** <br> <br> **TB1:** TB1 <br> <br> <br> **Miguel Ángel Huamán Cataño** <br> <br> **TB1:** TB1 <br> <br> <br> **Favio Sebastián Landeo Simeón** <br> <br> **TB1:** TB1 <br> <br> <br> **Jorge David Orrego Noriega** <br> <br> **TB1:** TB1 <br> <br> <br> | TB1conclusión |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. |                                                                             **Anampa Lavado, Luis Angel** <br> <br> **TB1:** TB1 <br> <br> <br> **Carlos Oswaldo Casimiro Fernández** <br> <br> **TB1:** TB1 <br> <br> <br> **Miguel Ángel Huamán Cataño** <br> <br> **TB1:** TB1 <br> <br> <br> **Favio Sebastián Landeo Simeón** <br> <br> **TB1:** TB1 <br> <br> <br> **Jorge David Orrego Noriega** <br> <br> **TB1:** Actualicé mis conceptos previos acerca de la situación del transporte público en Lima Metropolitana para el análisis del problema. <br> <br> <br> | TB1conclusión |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. |                                                                              **Anampa Lavado, Luis Angel** <br> <br> **TB1:** TB1 <br> <br> <br> **Carlos Oswaldo Casimiro Fernández** <br> <br> **TB1:** TB1 <br> <br> <br> **Miguel Ángel Huamán Cataño** <br> <br> **TB1:** TB1 <br> <br> <br> **Favio Sebastián Landeo Simeón** <br> <br> **TB1:** TB1 <br> <br> <br> **Jorge David Orrego Noriega** <br> <br> **TB1:** Aprendí sobre nuevas ideas para mejorar la experiencia de viajar en el transporte público limeño. <br> <br> <br> | TB1conclusión |
 
 ---
 
 # Objetivos SMART
 
-| **Nombre**                 | **Objetivo SMART**                                                                                                                                               |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Luis Angel Anampa Lavado** | Mi objetivo es desarrollar e implementar una aplicación móvil llamada "TrackMyRoute". Esta aplicación facilitará a los residentes de Lima encontrar las mejores rutas de transporte público, planificar sus viajes y obtener información en tiempo real sobre las rutas y medios de transporte. La aplicación también colaborará con las empresas de transporte para mejorar sus servicios. Mi segundo objetivo es completar el desarrollo e implementación de la aplicación, con todas las funcionalidades operativas. |
-| **Carlos Oswaldo Casimiro Fernández** |  |
-| **Miguel Ángel Huamán Cataño** | |
-| **Favio Sebastián Landeo Simeón** | |
-| **Jorge David Orrego Noriega** | |
+| **Nombre**                 | **Objetivo SMART**  | **Fecha de Inicio** |                                                                                                                                            
+|----------------------------|---------------------|--------------------|
+| **Luis Angel Anampa Lavado** | Mi objetivo es desarrollar e implementar una aplicación móvil llamada "TrackMyRoute". Esta aplicación facilitará a los residentes de Lima encontrar las mejores rutas de transporte público, planificar sus viajes y obtener información en tiempo real sobre las rutas y medios de transporte. La aplicación también colaborará con las empresas de transporte para mejorar sus servicios. Mi segundo objetivo es completar el desarrollo e implementación de la aplicación, con todas las funcionalidades operativas. | |
+| **Carlos Oswaldo Casimiro Fernández** |  | |
+| **Miguel Ángel Huamán Cataño** | | |
+| **Favio Sebastián Landeo Simeón** | | |
+| **Jorge David Orrego Noriega** | Cuando falten cinco días para la entrega del trabajo, iré coordinando con mis compañeros para ver qué falta por hacer por medio de una lista de pendientes, en la cual se asignará a un integrante del equipo por cada tarea no finalizada. | 26/08/2024 |
 
 ---
 
