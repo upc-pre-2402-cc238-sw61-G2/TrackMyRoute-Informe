@@ -174,7 +174,7 @@ Facilitar el acceso a un transporte público más eficiente y confiable, brindan
   <!-- Carlos Oswaldo Casimiro Fernández -->
   <tr align="center">
     <td rowspan="3" width="30%">
-      <img src="assets/CarlosOswaldoCasimiro.png" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="200"/>
+      <img src="assets/CarlosCasimiro.png" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="200"/>
     </td>
     <td align="left" style="padding: 10px;">
       <b>Nombre y Apellido:</b><br>
