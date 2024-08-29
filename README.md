@@ -976,6 +976,7 @@ Los métodos de navegación utilizados en TrackMyRoute son los siguientes:
 ---
 
 # Conclusiones
+ - Para esta entrega concluimos que es muy importante tener en cuenta la opinion de nuestros futuros usuarios, así como la ventaja competitiva que podemos brindar sobre nuestros competidores. Tambien concluimos que es necesaria una previa investigación y diseño de producto para tener claro los puntos principales de la aplicación.
 
 ---
 
