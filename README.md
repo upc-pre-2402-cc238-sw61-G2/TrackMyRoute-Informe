@@ -7,7 +7,7 @@
     <br>INFORME DE TRABAJO FINAL
 </p>
 <p align="center">
-    <strong>Startup: Grupo 2</strong><br>
+    <strong>Startup: TrackMyRoute</strong><br>
     <strong>Producto: TrackMyRoute</strong>
 </p>
 
