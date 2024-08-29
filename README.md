@@ -364,7 +364,7 @@ V. ¿Qué características son importantes?
 
 VI. ¿Cómo debe verse nuestro producto y cómo comportarse?
 
-Nuestra plataforma tiene que interactuar con los usuarios mediante un diseño llamativo e intuitivo con la finalidad de que nuestros usuarios confíen en nosotros y tengan facilidad de lograr sus objetivos al usar la plataforma.
+Nuestra plataforma tiene que interactuar con los usuarios mediante un diseño llamativo e intuitivo con la finalidad de que nuestros usuarios confíen en nosotros y tengan facilidad de lograr sus objetivos al usar la plataforma y tengan una experiencia de usuario satisfactoria.
 
 Business Assumptions
 
