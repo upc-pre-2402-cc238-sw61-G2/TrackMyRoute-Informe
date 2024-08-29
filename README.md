@@ -535,7 +535,7 @@ libremente. A continuación, se presentan algunos ejemplos de preguntas:
 Evidencia de la reunión:
 
 <div align="center">
-  <img src="assets/Entrevista01.jpg">
+  <img src="assets/Entrevista01.png">
 </div>
 
 - Inicio: 00:04
